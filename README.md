@@ -1,10 +1,10 @@
 # CesiumJS
 
-[![Build Status](https://github.com/CesiumGS/cesium/actions/workflows/dev.yml/badge.svg)](https://github.com/CesiumGS/cesium/actions/workflows/dev.yml)
+[![Build Status](https://github.com/Unity-Billal-mesloub/cesium/actions/workflows/dev.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/cesium/actions/workflows/dev.yml)
 [![npm](https://img.shields.io/npm/v/cesium)](https://www.npmjs.com/package/cesium)
 [![Docs](https://img.shields.io/badge/docs-online-orange.svg)](https://cesium.com/learn/)
 
-![Cesium](https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg)
+![Cesium](https://github.com/Unity-Billal-mesloub/cesium/wiki/logos/Cesium_Logo_Color.jpg)
 
 CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 
@@ -49,12 +49,6 @@ See our [Quickstart Guide](https://cesium.com/learn/cesiumjs-learn/cesiumjs-quic
 Instructions for serving local data are in the CesiumJS
 [Offline Guide](./Documentation/OfflineGuide/README.md).
 
-Interested in contributing? See [CONTRIBUTING.md](CONTRIBUTING.md). :heart:
-
-## :green_book: License
-
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). CesiumJS is free for both commercial and non-commercial use.
-
 ## :earth_americas: Where does the Global 3D Content come from?
 
 The Cesium platform follows an [open-core business model](https://cesium.com/why-cesium/open-ecosystem/cesium-business-model/) with open source runtime engines such as CesiumJS and optional commercial subscription to Cesium ion.
@@ -69,4 +63,4 @@ Bring your own data for tiling, hosting, and streaming from Cesium ion. [Using C
 - Visualize and analyze on a high-precision WGS84 globe
 - Share with users on desktop or mobile
 
-See more in the [CesiumJS Features Checklist](https://github.com/CesiumGS/cesium/wiki/CesiumJS-Features-Checklist).
+See more in the [CesiumJS Features Checklist](https://github.com/Unity-Billal-mesloub/cesium/wiki/CesiumJS-Features-Checklist).
