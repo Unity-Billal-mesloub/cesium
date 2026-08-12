@@ -49,6 +49,6 @@ See our [Quickstart Guide](https://cesium.com/learn/cesiumjs-learn/cesiumjs-quic
 
 Have questions? Ask them on the [community forum](https://community.cesium.com/).
 
-Interested in contributing? See [CONTRIBUTING.md](../../CONTRIBUTING.md). :heart:
+
 
 
