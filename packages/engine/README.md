@@ -45,9 +45,6 @@ const cesiumWidget = new CesiumWidget("cesiumContainer");
 
 See our [Quickstart Guide](https://cesium.com/learn/cesiumjs-learn/cesiumjs-quickstart/) for more information on getting a CesiumJS app up and running.
 
-## Community
-
-Have questions? Ask them on the [community forum](https://community.cesium.com/).
 
 
 
